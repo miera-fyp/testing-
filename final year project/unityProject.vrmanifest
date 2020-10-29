@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.mainmenu.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Nur Amiera\\OneDrive - Universiti Teknologi PETRONAS\\Final Year\\Final 3rd\\TDB 4104 - FYP II\\[01] Project\\mainmenu\\mainmenu\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "mainmenu [Testing]"
+        }
+      }
+    }
+  ]
+}
